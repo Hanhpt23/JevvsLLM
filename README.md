@@ -4,6 +4,10 @@ Examples and notes from my exploration of Jev, TypeSafe’s System One AI model.
 
 Jev is designed for structured decision-making rather than long-form text generation. It takes a program state and typed questions, then returns structured values and probabilities that can be directly consumed by software.
 
+## Youtube Video
+
+[![What is Jev? | Jev vs LLMs](https://img.youtube.com/vi/oGJ8AKIvEPk/maxresdefault.jpg)](https://youtu.be/oGJ8AKIvEPk)
+
 This repository covers:
 
 Jev vs. traditional LLMs
