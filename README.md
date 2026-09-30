@@ -6,7 +6,7 @@ Jev is designed for structured decision-making rather than long-form text genera
 
 ## Youtube Video
 
-[![What is Jev? | Jev vs LLMs](https://img.youtube.com/vi/oGJ8AKIvEPk/maxresdefault.jpg)](https://youtu.be/oGJ8AKIvEPk)
+[![What is Jev? | Jev vs LLMs](JevvsLLMs.png)](https://youtu.be/oGJ8AKIvEPk)
 
 This repository covers:
 
